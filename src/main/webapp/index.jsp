@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2>Hello, this is a demo of deploying a java maven web application on Tomcat server using jenkins.</h2>
+<h2>Hello, this is a demo docker image.</h2>
 </body>
 </html>
